@@ -5,6 +5,9 @@ ft_printf is a custom implementation of the printf function in the standard C li
 ## Usage
 
 1. Clone the repository
+```sh
+git clone https://github.com/andrexandre/ft_printf.git ; cd ft_printf
+```
 
 2. Compile the library
 ```sh
