@@ -1,6 +1,6 @@
 # ft_printf
 
-ft_printf is a custom implementation of the printf function in the standard C library. The ft_printf function handles various format specifiers from the original printf
+This project is part of the 42 School curriculum and aims to recreate the printf function in the standard C library. The ft_printf function handles various format specifiers from the original printf
 
 ## Usage
 
@@ -13,7 +13,7 @@ git clone https://github.com/andrexandre/ft_printf.git ; cd ft_printf
 ```sh
 make
 ```
-> This will generate the libftprintf.a static library file.
+> This will generate the `libftprintf.a` static library file.
 
 3. Create a file `main.c`
 ```c
