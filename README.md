@@ -1,6 +1,6 @@
-# ft_printf
+# Ft_printf
 
-This project is part of the 42 School curriculum and aims to recreate the printf function in the standard C library. The ft_printf function handles various format specifiers from the original printf
+This project aims to recreate the printf function in the standard C library. The ft_printf function handles various format specifiers from the original printf
 
 ## Usage
 
@@ -33,3 +33,6 @@ cc -o main main.c -L. -lftprintf
 ```sh
 ./main
 ```
+
+> [!NOTE]
+> This project is part of the 42 School curriculum
